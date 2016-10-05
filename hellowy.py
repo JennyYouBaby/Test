@@ -1,0 +1,1 @@
+print "wangyi is so stupid~ but i love~"
